@@ -1,2 +1,3 @@
-# menstruation_initiative_ccm
-CCM Menstruation survey analysis. Data collection conducted over 4 weeks and reached total 213 student participants.
+# Menstruation Products Intitiative CCM
+CCM during the fall semester 2023 startred free menstruation product initiative. Although the initiative had begun the prior semester much progress had not been made in the availability of free menstruation products. To gain insight into the support of this initiattive to bring awareness to the administration. The Student Government Association started a menstruation data collection. The survey included 17 questions covering 4 broad categories Demographic Questions, Menstruation Product Usage ,Menstruation Product Impact, and Menstruation Product Support. Data collectionwas  conducted over 4 weeks and reached total 213 student participants.
+The data was then analyzed ranging from question on impact on student body to concerns of student not supporting this initiative. The survey analysis was presented to school administration to bring a campus wide policy.
